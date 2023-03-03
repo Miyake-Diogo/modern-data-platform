@@ -1,2 +1,4 @@
-# modern-data-structure
-Modern Data Structure Workshop in Practice
+# Modern Data Platform 
+Modern Data Platform using Open Source and proprietary tools.
+
+
